@@ -1,0 +1,7 @@
+*/*/.exercism
+
+cpp/*/*.txt
+cpp/*/build/
+cpp/*/*.h
+cpp/*/*_test.cpp
+cpp/*/test/
