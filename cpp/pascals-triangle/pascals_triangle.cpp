@@ -1,8 +1,6 @@
 #include "pascals_triangle.h"
 using namespace std;
 
-#include <iostream>
-
 namespace pascals_triangle {
   int memo[999]; // memoization
   

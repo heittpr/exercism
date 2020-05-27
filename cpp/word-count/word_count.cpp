@@ -1,6 +1,5 @@
 #include "word_count.h"
 #include <cctype>
-#include <iostream>
 
 using namespace std;
 

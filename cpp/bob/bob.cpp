@@ -1,5 +1,4 @@
 #include "bob.h"
-#include <iostream>
 
 using namespace std;
 

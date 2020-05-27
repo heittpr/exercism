@@ -1,7 +1,6 @@
 #include "sum_of_multiples.h"
 
 #include <cmath>
-#include <iostream>
 using namespace std;
 
 namespace sum_of_multiples {

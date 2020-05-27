@@ -1,5 +1,4 @@
 #include "meetup.h"
-#include <iostream>
 
 using namespace std;
 using namespace boost::gregorian;
