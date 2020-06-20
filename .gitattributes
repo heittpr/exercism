@@ -1,1 +1,1 @@
-cpp/README*.md filter=cpp
+cpp/*/README.md filter=cpp
