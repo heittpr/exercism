@@ -4,7 +4,7 @@ my solutions to [exercism.io](https://exercism.io) problems
 
 ### filters
 
-I've defined some custom git filters (see [gitattributes(5)](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/gitattributes.html#_tt_filter_tt)) to remove the irrelevant part of each problem's README. Here they are in case you're interested.
+I've defined some custom git filters<sup>[1](#footnote)</sup> to remove the irrelevant part of each problem's README. Here they are in case you're interested.
 
 `.gitattributes`
 
@@ -18,3 +18,7 @@ cpp/*/README.md filter=cpp
 [filter "cpp"]
   clean = "sed -n '/##.*$/q;p'"
 ```
+
+---
+<a name="footnote">1</a>: see [gitattributes(5)](http://web.mit.edu/git/www/gitattributes.html)
+
